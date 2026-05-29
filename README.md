@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# 💫 HI DRRISHTI HERE ...
 Aspiring AI/ML Engineer | Data Science Enthusiast | Problem Solver<br><br>I am a 3rd-year Computer Science student with a strong interest in Artificial Intelligence, Machine Learning, and Data Science. I enjoy building projects that combine programming, logical thinking, and real-world applications.<br><br>Currently improving my problem-solving skills through DSA and actively working on AI/NLP projects. I am passionate about learning modern technologies and applying them to create impactful solutions.
 
 
